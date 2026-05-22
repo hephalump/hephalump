@@ -20,7 +20,9 @@ I've spent my career in travel technology, most recently leading a 72-person pro
 ## My Stack
 
 **Product & ops:** Jira, Linear, SAFe / Scrum, portfolio and capacity planning, KPI frameworks
+
 **Build:** Python (with FastAPI), Node.js, React, AWS, Postgres, Docker
+
 **AI:** Claude, Gemini, Codex, NotebookLM, LM Studio, OLlama, LangChain — used daily, not as a demo
 
 ## Connect
